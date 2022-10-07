@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @omoniyitoluwani35
-- 👀 I’m interested in Flutter, Python, Gdscript
+- 👋 Hi, I’m @Toluwani Omoniyi
+- 👀 I’m interested in Flutter, Python, Gdscript,   Machine Learning, Deep Learning
 - 🌱 I’m currently learning: Flutter, Python
 - 💞️ I’m looking to collaborate on: App development 
 - 📫 How to reach me: Omoniyitoluwani35@gmail.com 
