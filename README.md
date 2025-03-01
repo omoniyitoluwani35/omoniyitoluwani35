@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Toluwani Omoniyi
-- 👀 I’m interested in Flutter, Python, Gdscript,   Machine Learning, Deep Learning
-- 🌱 I’m currently learning: Flutter, Python
-- 💞️ I’m looking to collaborate on: App development, Machine learning projects 
+- 👀 I’m interested in Python, Odoo, Machine Learning, Deep Learning
+- 🌱 I’m currently learning:Python, Odoo , AI 
+- 💞️ I’m looking to collaborate on: App development, Machine learning projects, odoo module creation
 - 📫 How to reach me: Omoniyitoluwani35@gmail.com 
 
 <!---
